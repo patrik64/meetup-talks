@@ -5,7 +5,7 @@ https://www.meetup.com/viennajs/events/316696137
 
 Demo apps:
 
-https://github.com/patrik64/tree-sitter-showcase
+https://github.com/patrik64/tree-sitter-showcase  
 https://github.com/patrik64/tree-sitter-json
 
 Links:
