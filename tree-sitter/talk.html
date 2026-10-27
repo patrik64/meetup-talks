@@ -78,6 +78,10 @@
   .small + .small { margin-top: 0.6em; }
   .small li { padding-block: 0.05em; }
 
+  h3 { margin: 0.9em 0 0; font-size: 1em; font-weight: 600; color: var(--muted); } /* label for a group of bullets */
+  h3 + ul { margin-top: 0.3em; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.9em; }
+
   nav {
     position: fixed;
     right: calc(var(--u) * 1.5);
@@ -130,6 +134,46 @@
   </section>
 
   <section class="slide">
+    <h2>Tree-sitter is</h2>
+    <ul>
+      <li>parser generator tool</li>
+      <li>incremental parser library</li>
+      <li>a query engine</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <h2>with Tree-sitter you can</h2>
+    <ul>
+      <li>generate a syntax tree</li>
+      <li>ask questions about the tree</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <h2>Tree-sitter is used in</h2>
+    <ul>
+      <li>Zed</li>
+      <li>Emacs</li>
+      <li>Neovim</li>
+      <li>Helix</li>
+      <li>Github</li>
+      <li>...</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <h2>Tree-sitter is based on</h2>
+    <ul>
+      <li>Practical Algorithms for Incremental Software Development Environments - Tim A. Wagner</li>
+    </ul>
+    <ul class="links">
+      <li><a href="https://en.wikipedia.org/wiki/LR_parser">https://en.wikipedia.org/wiki/LR_parser</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/GLR_parser">https://en.wikipedia.org/wiki/GLR_parser</a></li>
+    </ul>
+  </section>
+
+  <section class="slide">
     <h2>Tree-sitter parts</h2>
     <ul>
       <li>CLI - Rust</li>
@@ -139,21 +183,18 @@
     </ul>
   </section>
 
-  <!--section class="slide">
-    <h2>Fumadocs UI – components</h2>
-    <ul class="two">
-      <li>Accordion</li>
-      <li>Banner</li>
-      <li>Type Table</li>
-      <li>Files</li>
-      <li>Graph View</li>
-      <li>Zoomable Image</li>
-      <li>Inline TOC</li>
-      <li>Steps</li>
-      <li>Tabs</li>
-      <li>etc.</li>
+  <section class="slide">
+    <h2>to create a new parser using Tree-sitter</h2>
+    <ul>
+      <li>create <code>grammar.js</code> file</li>
     </ul>
-  </section-->
+    <h3>output</h3>
+    <ul>
+      <li><code>grammar.json</code></li>
+      <li><code>node-types.json</code></li>
+      <li><code>parser.c</code></li>
+    </ul>
+  </section>
 
   <section class="slide center">
     <h2>Demo 1</h2>
