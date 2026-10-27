@@ -6,12 +6,12 @@ https://www.meetup.com/viennajs/events/316696137
 Demo apps:
 
 https://github.com/patrik64/tree-sitter-showcase  
-https://github.com/patrik64/tree-sitter-json
+https://github.com/patrik64/tree-sitter-json  
 
 Links:
 
-https://tree-sitter.github.io
-https://github.com/tree-sitter/tree-sitter
+https://tree-sitter.github.io  
+https://github.com/tree-sitter/tree-sitter  
 
 https://github.com/hydro-project/rust-sitter
 
