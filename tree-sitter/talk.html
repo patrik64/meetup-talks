@@ -80,6 +80,7 @@
 
   h3 { margin: 0.9em 0 0; font-size: 1em; font-weight: 600; color: var(--muted); } /* label for a group of bullets */
   h3 + ul { margin-top: 0.3em; }
+  .by { display: block; font-size: 0.85em; color: var(--muted); } /* author line under a cited title */
   code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.9em; }
 
   nav {
@@ -165,7 +166,11 @@
   <section class="slide">
     <h2>Tree-sitter is based on</h2>
     <ul>
-      <li>Practical Algorithms for Incremental Software Development Environments - Tim A. Wagner</li>
+      <li>
+        <cite>Practical Algorithms for Incremental Software Development Environments</cite>
+        <span class="by">Tim A. Wagner</span>
+      </li>
+      <li>LR / GLR parsing</li>
     </ul>
     <ul class="links">
       <li><a href="https://en.wikipedia.org/wiki/LR_parser">https://en.wikipedia.org/wiki/LR_parser</a></li>
