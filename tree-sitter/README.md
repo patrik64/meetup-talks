@@ -9,6 +9,7 @@ Demo apps:
 
 https://github.com/patrik64/tree-sitter-showcase  
 https://github.com/patrik64/tree-sitter-json  
+https://github.com/patrik64/code-analyzer  
 
 Links:
 
@@ -19,7 +20,7 @@ https://github.com/hydro-project/rust-sitter
 
 
 
-To recreate the application from the beginning of the talk (code-analyzer) using Claude follow these steps:
+To recreate the application from the beginning of the talk ([code-analyzer](https://github.com/patrik64/code-analyzer)) using Claude follow these steps:
 
 1. create a folder called code-analyzer and open Claude Code in it
 2. set the model to Sonnet 5.5
