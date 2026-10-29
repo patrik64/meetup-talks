@@ -36,3 +36,7 @@ To recreate the application from the beginning of the talk ([code-analyzer](http
 		- create a graph view where vertices are js or ts files and connect them using import directives  
 
 Add anything else you can think of that might help a user get a good grasp about the project."  
+
+<img width="2918" height="1452" alt="image" src="https://github.com/user-attachments/assets/3937fb8f-275c-4cf3-a77f-9ccb901981a0" />
+<img width="2910" height="1496" alt="image" src="https://github.com/user-attachments/assets/86b8f173-c0c7-48b6-9280-934f81881daf" />
+<img width="2908" height="1396" alt="image" src="https://github.com/user-attachments/assets/a8ae303d-14ec-444e-b9b9-26140738c355" />
