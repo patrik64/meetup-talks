@@ -3,7 +3,7 @@
 6.10.2026 - React Vienna  
 https://www.meetup.com/reactvienna/events/316649262
 
-slides are in the above talk.html file, simply open it in your browser.
+slides are in the above [talk.html](https://github.com/patrik64/meetup-talks/blob/main/fumadocs-codehike/talk.html) file, simply open it in your browser.
 
 Demo apps:
 
