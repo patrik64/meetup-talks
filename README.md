@@ -1,6 +1,6 @@
 # meetup-talks
 
-Slides from meetup talks that I gave in the past:
+Slides and demo apps from meetup talks that I gave in the past:
 
 
 ## [Code documentation with Fumadocs and Code Hike](./fumadocs-codehike)  
