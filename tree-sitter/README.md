@@ -3,7 +3,7 @@
 28.10.2026 - ViennaJS  
 https://www.meetup.com/viennajs/events/316696137
 
-slides are in the above talk.html file, simply open it in your browser.
+slides are in the above [talk.html](https://github.com/patrik64/meetup-talks/blob/main/tree-sitter/talk.html) file, simply open it in your browser.
 
 Demo apps:
 
