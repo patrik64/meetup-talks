@@ -35,3 +35,6 @@ To recreate the demo application from the beginning of the talk ([pi-coding-agen
 "take a look at the neighboring quadratic-svelte-documentation project and do the same for sources in neighboring pi/packages/coding-agent project here in this folder (do the same including graph-view, mirrored file tree etc.)"
 
 The app is live here: https://pi-coding-agent-documentation.vercel.app/
+
+<img width="2914" height="1398" alt="image" src="https://github.com/user-attachments/assets/35d00665-345a-407f-b330-169fde954d07" />
+
