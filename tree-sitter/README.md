@@ -3,6 +3,8 @@
 28.10.2026 - ViennaJS  
 https://www.meetup.com/viennajs/events/316696137
 
+slides are in the above talk.html file, simply open it in your browser.
+
 Demo apps:
 
 https://github.com/patrik64/tree-sitter-showcase  
