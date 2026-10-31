@@ -24,7 +24,8 @@ https://github.com/code-hike/codehike
 https://github.com/pomber  
 https://pomb.us/build-your-own-react  
 
-To recreate the demo application from the beginning of the talk ([pi-coding-agent-documentation](https://github.com/patrik64/pi-coding-agent-documentation)) using Claude follow these steps:
+Usually, just before I start my talk, I let Claude create a demo application while I am doing the talk.  
+To recreate the demo application from this talk ([pi-coding-agent-documentation](https://github.com/patrik64/pi-coding-agent-documentation)) follow these steps:
 
 1. clone the pi repo - https://github.com/earendil-works/pi
 2. clone the quadratic-svelte-documentation repo - https://github.com/patrik64/quadratic-svelte-documentation
