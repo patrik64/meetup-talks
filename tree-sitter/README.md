@@ -19,8 +19,8 @@ https://github.com/tree-sitter/tree-sitter
 https://github.com/hydro-project/rust-sitter
 
 
-
-To recreate the application from the beginning of the talk ([code-analyzer](https://github.com/patrik64/code-analyzer)) using Claude follow these steps:
+Usually, just before I start my talk, I let Claude create an app while I am doing the talk.  
+To recreate the application from this talk ([code-analyzer](https://github.com/patrik64/code-analyzer)) follow these steps:
 
 1. create a folder called code-analyzer and open Claude Code in it
 2. set the model to Sonnet 5.5
