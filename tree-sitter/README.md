@@ -19,7 +19,7 @@ https://github.com/tree-sitter/tree-sitter
 https://github.com/hydro-project/rust-sitter
 
 
-Usually, just before I start my talk, I let Claude create an app while I am doing the talk.  
+Usually, just before I start my talk, I let Claude create a demo application while I am doing the talk.  
 To recreate the application from this talk ([code-analyzer](https://github.com/patrik64/code-analyzer)) follow these steps:
 
 1. create a folder called code-analyzer and open Claude Code in it
