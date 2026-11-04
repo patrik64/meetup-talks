@@ -28,7 +28,7 @@ To recreate the demo application from this talk ([napi-rs-pdf-writer](https://gi
 2. set the model to Sonnet 5.5
 3. set the effort to low
 4. use the following prompt:  
-"  
+```  
 Create a Sveltekit application that showcases the use of napi-rs framework in the following way:
   - create rust code that uses typst's pdf-writer (https://github.com/typst/pdf-writer) that creates 100000 example pdf files 
   - the example pdf files should be something like invoice for an online service
@@ -41,4 +41,4 @@ Create a Sveltekit application that showcases the use of napi-rs framework in th
   - create a progress bar that tracks generation
   - claude-in-chrome is working
   - use pnpm  
-"
+```
