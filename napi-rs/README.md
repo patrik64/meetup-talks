@@ -36,14 +36,14 @@ Create a Sveltekit application that showcases the use of napi-rs framework in th
   - use napi-rs to create node native library from that rust code
   - use rayon rust library to parallelize the work
   - create several generation options:
-    -- single thread vs. rayon
-    -- in memory only vs. disk I/O
-    -- JS loop vs single napi call
-    -- JS worker threads)
+    - single thread vs. rayon
+    - in memory only vs. disk I/O
+    - JS loop vs single napi call
+    - JS worker threads)
   - the best would be 6 buttons - 3x2 where columns would be:
-    -- rust->disk
-    -- rust->memory
-    -- JS->memory
+    - rust->disk
+    - rust->memory
+    - JS->memory
     and rows single thread and rayon
   - use EmbedPDF library to show the generated pdfs (use absolute path to pdfium.wasm)
   - provide statistics about how fast is the pdf files generation
