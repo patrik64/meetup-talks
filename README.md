@@ -13,3 +13,8 @@ https://www.meetup.com/reactvienna/events/316649262
 
 28.10.2026 - ViennaJS  
 https://www.meetup.com/viennajs/events/316696137
+
+## [Using Rust to speed up Node](./napi-rs)
+
+12.11.2026 - Node.js Meetup Vienna   
+https://www.meetup.com/nodejs-vienna/events/316960156
