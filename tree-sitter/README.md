@@ -34,8 +34,12 @@ that accepts a folder of an existing project as input and does the following:
 	- provides detailed statistics about the code:  
 		- number of js and ts files  
 		- number of lines of code  
-		- for each js or ts file - number of lines of code, number of functions, number of imports etc.  
-		- create a graph view where vertices are js or ts files and connect them using import directives  
+		- for each js or ts file
+			- number of lines of code
+			- number of functions
+			- number of imports etc.  
+		- create a graph view where vertices are js or ts files and
+		- connect them using import directives  
 
 Add anything else you can think of that might help a user get a good grasp about the project.
 ```  
