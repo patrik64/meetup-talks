@@ -33,7 +33,11 @@ To recreate the demo application from this talk ([pi-coding-agent-documentation]
 4. set the model to Sonnet 5.5
 5. set the effort to low
 6. use the following prompt:  
-"take a look at the neighboring quadratic-svelte-documentation project and do the same for sources in neighboring pi/packages/coding-agent project here in this folder (do the same including graph-view, mirrored file tree etc.)"
+```
+take a look at the neighboring quadratic-svelte-documentation project and  
+do the same for sources in neighboring pi/packages/coding-agent project  
+here in this folder (do the same including graph-view, mirrored file tree etc.)
+```
 
 The app is live here: https://pi-coding-agent-documentation.vercel.app/
 
