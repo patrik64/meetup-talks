@@ -30,7 +30,8 @@ To recreate the demo application from this talk ([napi-rs-pdf-writer](https://gi
 4. use the following prompt:  
 ```  
 Create a Sveltekit application that showcases the use of napi-rs framework in the following way:
-  - create rust code that uses typst's pdf-writer (https://github.com/typst/pdf-writer) that creates 100000 example pdf files 
+  - create rust code that uses typst's pdf-writer (https://github.com/typst/pdf-writer)
+  - and creates 100000 example pdf files 
   - the example pdf files should be something like invoice for an online service
   - use napi-rs to create node native library from that rust code
   - use rayon rust library to parallelize the work
