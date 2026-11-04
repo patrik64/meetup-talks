@@ -52,4 +52,5 @@ Create a Sveltekit application that showcases the use of napi-rs framework in th
   - use pnpm  
 ```
 
-<img width="2376" height="1756" alt="image" src="https://github.com/user-attachments/assets/2a741715-a1b4-4f4a-8ad0-5e23b50d965e" />
+<img width="2326" height="1762" alt="image" src="https://github.com/user-attachments/assets/4a9a43f9-beb2-4aba-a2e8-045ee0547e64" />
+
