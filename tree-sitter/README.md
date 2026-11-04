@@ -27,15 +27,18 @@ To recreate the application from this talk ([code-analyzer](https://github.com/p
 3. set the effort to low
 4. use the following prompt:  
 
-"Create a SvelteKit application using tree-sitter and chart.js libraries that accepts a folder of an existing project as input and does the following:  
-	- parses all typescript and javascipt files using tree-sitter. 
+```
+Create a SvelteKit application using tree-sitter and chart.js libraries
+that accepts a folder of an existing project as input and does the following:  
+	- parses all typescript and javascipt files using tree-sitter  
 	- provides detailed statistics about the code:  
 		- number of js and ts files  
 		- number of lines of code  
 		- for each js or ts file - number of lines of code, number of functions, number of imports etc.  
 		- create a graph view where vertices are js or ts files and connect them using import directives  
 
-Add anything else you can think of that might help a user get a good grasp about the project."  
+Add anything else you can think of that might help a user get a good grasp about the project.
+```  
 
 <img width="2918" height="1452" alt="image" src="https://github.com/user-attachments/assets/3937fb8f-275c-4cf3-a77f-9ccb901981a0" />
 <img width="2910" height="1496" alt="image" src="https://github.com/user-attachments/assets/86b8f173-c0c7-48b6-9280-934f81881daf" />
