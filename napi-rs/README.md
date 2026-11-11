@@ -23,6 +23,7 @@ Videos:
 [N-API - The new native in Node.js](https://www.youtube.com/watch?v=E0w7Tc0f2fA) - Atishay Jain 2018  
 [Developing high-performance Node.js addons with Rust and NAPI-RS](https://www.youtube.com/watch?v=OjWEHOtu0eQ) - Brooooooklyn 2023  
 [Rust + Node = Neon](https://www.youtube.com/watch?v=jINMIAicaS0) - Dave Herman 2016  
+[Building native addons for Node.js](https://www.youtube.com/watch?v=BEPTMiCNxlY) - Michael Dawson 2023  
 
 
 
