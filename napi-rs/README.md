@@ -49,7 +49,7 @@ Create a Sveltekit application that showcases the use of napi-rs framework in th
     - rust->disk
     - rust->memory
     - JS->memory
-    and rows single thread and rayon
+    and rows single thread and rayon/worker threads
   - use EmbedPDF library to show the generated pdfs (use absolute path to pdfium.wasm)
   - provide statistics about how fast is the pdf files generation
   - create a progress bar that tracks generation
