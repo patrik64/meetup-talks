@@ -45,7 +45,7 @@ Create a Sveltekit application that showcases the use of napi-rs framework in th
     - single thread vs. rayon
     - in memory only vs. disk I/O
     - JS loop vs single napi call
-    - JS worker threads)
+    - JS worker threads
   - the best would be 6 buttons - 3x2 where columns would be:
     - rust->disk
     - rust->memory
