@@ -7,16 +7,17 @@ slides are in the above [talk.html](https://github.com/patrik64/meetup-talks/blo
 
 Demo apps:  
 
-https://github.com/patrik64/rust-napi-rs-demo  
 https://github.com/patrik64/rust-neon-demo  
+https://github.com/patrik64/rust-napi-rs-demo  
+https://github.com/patrik64/napi-rs-tokio-demo  
 
 Links:  
 
-https://napi.rs  
-https://github.com/napi-rs/napi-rs  
-
 https://neon-rs.dev  
 https://github.com/neon-bindings/neon  
+
+https://napi.rs  
+https://github.com/napi-rs/napi-rs  
 
 Videos:
 
